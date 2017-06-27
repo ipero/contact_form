@@ -1,0 +1,15 @@
+{
+  "name": "contact_form",
+  "version": "1.0.0",
+  "description": "Contact form with Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "author": "Roman Hiebert",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
